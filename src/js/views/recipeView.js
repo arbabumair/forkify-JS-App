@@ -2,7 +2,7 @@ import View from './View';
 
 // import icons from '../img/icons.svg' //V1
 import icons from 'url:../../img/icons.svg'; //V2
-import {Fraction} from 'fractional';
+import { Fraction } from 'fractional';
 
 class RecipeView extends View {
      
